@@ -1,0 +1,7 @@
+storage_account_tier="Standard"
+location="east US"
+account_tier="Standard"
+account_replication_type="LRS"
+storage_account_name="demostaccounttest1234"
+environment="testing"
+namespace="test"

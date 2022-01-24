@@ -1,0 +1,6 @@
+// init
+terraform init
+// plan
+terraform plan --var-file=environments/terraform.tfvars
+// apply
+terraform apply --var-file=environments/terraform.tfvars
