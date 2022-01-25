@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RESOURCE_GROUP_NAME=demotstate
+RESOURCE_GROUP_NAME=demotstate123
 STORAGE_ACCOUNT_NAME=demotstate$RANDOM
 CONTAINER_NAME=demotstate
 
