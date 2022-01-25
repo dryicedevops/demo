@@ -11,7 +11,7 @@
   "parameters": {
     "clusterName": {
       "type": "string",
-      "defaultValue": "aks101cluster",
+      "defaultValue": "aks-dryice-cluster",
       "metadata": {
         "description": "The name of the Managed Cluster resource."
       }
@@ -60,10 +60,10 @@
         "description": "User name for the Linux Virtual Machines."
       }
     },
-    "sshRSAPublicKey": {
+    "linuxAdminPwd": {
       "type": "string",
       "metadata": {
-        "description": "Configure all linux machines with the SSH RSA public key string. Your key should include three parts, for example 'ssh-rsa AAAAB...snip...UcyupgH azureuser@linuxvm'"
+        "description": "Password to login."
       }
     }
   },
