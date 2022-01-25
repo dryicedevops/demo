@@ -11,8 +11,8 @@
     "linuxAdminUsername": {
       "value": "dryicedevops"
     },
-    "sshRSAPublicKey": {
-      "value": "AAAAB3NzaC1yc2EAAAADAQABAAABgQDUisUN3OOsqJReFEQsuMBa1N4fRl03FrD9oYo2PAcY789hLuhompolYKgSuHe91CvhOqc+5/F7uNjnfZB3iFye3OPa4gPpBAm/jKs79+2qjgiYzevyqHOiwPyu0UMj1eeyPLrQLNdvMHbjqjjWl7RFzKgnR0L1Xk3Z/BgIZDdHdRxs4CyjvB9EmXcFW8Krr4TS8RWCZ5rsjVbkUU6iofbM9+Vgt7b09lv2+/DvaloX2np5su/LNpUaaP1Iv0W8jiSBdtKXn9M9uJ2Ty39A0d/EZflfn5cqDiPoBxYz4vNFsTNmI7Oq86ZOturE8ac3uS8D+k/TOTTaIybxdqrzZzNhwOtZu0FTQ0GtPQmluiQmQj/+LL1+PpPyjSrGrf4OiiaujWrTRbz//ZDh8kV+81n05qNr9nPvhkSd+gOTGleaHYu0R9K93N0tiJiQoKFcZjbztxJaMvAbmAbaVFrzJF2zh9WMYWdOBPTLljrqn/o7HNEKVP4wlA5CfK5Tss/fKTU= firstvm@DemoVM"
+    "linuxAdminPwd": {
+      "value": "Administrator@123456"
     }
   }
 }
