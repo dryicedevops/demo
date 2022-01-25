@@ -1,8 +1,8 @@
 #!/bin/bash
 
 RESOURCE_GROUP_NAME=demotstate123
-STORAGE_ACCOUNT_NAME=demotstate$RANDOM
-CONTAINER_NAME=demotstate
+STORAGE_ACCOUNT_NAME=demotstaterandomsto
+CONTAINER_NAME=demotstatesto
 
 # Create resource group
 az group create --name $RESOURCE_GROUP_NAME --location eastus
