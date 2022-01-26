@@ -91,13 +91,7 @@
         ],
         "linuxProfile": {
           "adminUsername": "[parameters('linuxAdminUsername')]",
-          "ssh": {
-            "publicKeys": [
-              {
-                "keyData": "[parameters('sshRSAPublicKey')]"
-              }
-            ]
-          }
+          "linuxAdminPwd": "[parameters('linuxAdminPwd')]"
         }
       }
     }
