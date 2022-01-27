@@ -25,7 +25,7 @@
         },
         "osDiskSizeGB": {
             "type": "int",
-            "defaultValue": 10,
+            "defaultValue": 30,
             "metadata": {
                 "description": "OS Disk size."
             },
