@@ -18,13 +18,14 @@
         },
         "dnsPrefix": {
             "type": "string",
+            "defaultValue": "aks-dns",
             "metadata": {
                 "description": "DNS prefix."
             }
         },
         "osDiskSizeGB": {
             "type": "int",
-            "defaultValue": 0,
+            "defaultValue": 10,
             "metadata": {
                 "description": "OS Disk size."
             },
