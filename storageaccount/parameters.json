@@ -4,7 +4,8 @@
     "parameters": {
         "location": {
            "type": "string"
-            "defaultValue": "[resourceGroup().location]",
+            "defaultValue":
+            "[resourceGroup().location]",
         },
         "storageAccountName": {
             "value": "demoproject"
