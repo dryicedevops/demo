@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "eastus"
+            "value": "$locationname"
         },
         "storageAccountName": {
-            "value": "demoproject"
+            "value": "$storageAccountName"
         },
         "accountType": {
-            "value": "Standard_RAGRS"
+            "value": "$accountType"
         },
         "kind": {
-            "value": "StorageV2"
+            "value": "$kind"
         },
         "accessTier": {
             "value": "Hot"
